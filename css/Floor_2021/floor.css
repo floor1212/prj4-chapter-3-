@@ -1,0 +1,29 @@
+@charset "utf-8";
+body{
+	background: #EDE6E6;
+	
+}
+p{
+	font-family: 'Open Sans Condensed', sans-serif;
+		
+}
+.myheader {
+	width: 1800px;
+	height: 400px;
+	background-image: url(../../images/cropped-bg-header-type-red-theme2013-4-1.png);
+}
+.pinky { 
+		color: #FF00A0;
+		font-family: 'Open Sans Condensed', sans-serif;
+	
+}
+.Grey {
+		color: #5B4747
+}
+
+#zaza {
+	color: #D7CFCF;
+	font-style: oblique;	
+	
+		
+}
