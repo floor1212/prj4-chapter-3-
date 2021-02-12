@@ -7,6 +7,8 @@ p{
 	font-family: 'Open Sans Condensed', sans-serif;
 		
 }
+.container {border: #EBB9BA}
+.container {background: #DDA7A7}
 .myheader {
 	width: 1800px;
 	height: 300px;
